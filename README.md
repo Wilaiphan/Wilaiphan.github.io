@@ -1,4 +1,6 @@
 # Wilaiphan.github.io
-- Test
-    - Testttt
-    [!profile](/img/wilai.png)
+
+- Wilaiphan Kunlachet
+    - Prim
+ 
+![profile](/wilai.png)
