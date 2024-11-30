@@ -1,4 +1,4 @@
-# Work Factor 
+### Work Factor 
 
 ## - CISSP Glossary 
 - *This represents the time and effort required to break a cryptography system.*
