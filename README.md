@@ -1,4 +1,4 @@
-<div style = "align:center; font-size:24px; color:#26a69a">
+<div style = "text-align:center; font-size:24px; color:#26a69a">
   <b> WELCOME TO MY WEBSITE </b>
 </div>
 
