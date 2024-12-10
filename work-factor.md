@@ -14,7 +14,7 @@
   <b> NIST </b>
 </div>
 
-- **Estimate of the effort or time needed by a potential perpetrator, with specified expertise and resources, to overcome a protective measure.**
+**Estimate of the effort or time needed by a potential perpetrator, with specified expertise and resources, to overcome a protective measure.**
     - ChatGPT : การประมาณความพยายามหรือเวลาที่ผู้กระทำการที่เป็นไปได้ มีความเชี่ยวชาญและทรัพยากรที่ระบุไว้ ต้องใช้ในการเอาชนะมาตรการป้องกันที่กำหนดไว้
     - Gemini : ปริมาณงานที่ต้องใช้ในการทำลายระบบเข้ารหัส หรือความยากลำบากในการค้นหาคำตอบของปัญหาบางอย่าง
 
