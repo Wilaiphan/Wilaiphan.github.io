@@ -1,4 +1,11 @@
-## Work Factor 
+##  
+<div style = "text-align:center">
+  <h2> Work Factor </h2>
+</div>
+
+<div style = "text-align:center; font-size:14px">
+  <b> Work Factor </b>
+</div>
 
 #### - CISSP Glossary 
 - **This represents the time and effort required to break a cryptography system.**
