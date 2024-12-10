@@ -3,5 +3,5 @@
 - Wilaiphan Kunlachet
     - Prim
  
-![profile](/wilai.png)
+![profile](/img/wilai.png)
 
