@@ -6,5 +6,5 @@
 
     - Prim
  
-![profile](/img/wilai.png)
+<img src = "/img/wilai.png" width = "200">
 
