@@ -13,6 +13,6 @@
 ###### **Nickname :** Prim
 ##### I am a third-year student in Computer Science at the Faculty of Science Sriracha.
 
- 
-<img src = "/img/wilai.png" width = "200">
-
+ <div align="center">
+    <img src = "/img/wilai.png" width = "300">
+</div>
