@@ -7,16 +7,18 @@
 </div>
 
 **This represents the time and effort required to break a cryptography system.**
-    - ChatGPT :เวลาและความพยายามที่ต้องใช้ในการทำลายระบบการเข้ารหัสลับ(Cryptography System)  
-    - Gemini : เวลาและทรัพยากรที่จำเป็นในการทำลายระบบการเข้ารหัส 
+
+- ChatGPT :เวลาและความพยายามที่ต้องใช้ในการทำลายระบบการเข้ารหัสลับ(Cryptography System)  
+- Gemini : เวลาและทรัพยากรที่จำเป็นในการทำลายระบบการเข้ารหัส 
 
 <div style = "text-align:center; font-size:16px">
   <b> NIST </b>
 </div>
 
 **Estimate of the effort or time needed by a potential perpetrator, with specified expertise and resources, to overcome a protective measure.**
-    - ChatGPT : การประมาณความพยายามหรือเวลาที่ผู้กระทำการที่เป็นไปได้ มีความเชี่ยวชาญและทรัพยากรที่ระบุไว้ ต้องใช้ในการเอาชนะมาตรการป้องกันที่กำหนดไว้
-    - Gemini : ปริมาณงานที่ต้องใช้ในการทำลายระบบเข้ารหัส หรือความยากลำบากในการค้นหาคำตอบของปัญหาบางอย่าง
+
+- ChatGPT : การประมาณความพยายามหรือเวลาที่ผู้กระทำการที่เป็นไปได้ มีความเชี่ยวชาญและทรัพยากรที่ระบุไว้ ต้องใช้ในการเอาชนะมาตรการป้องกันที่กำหนดไว้
+- Gemini : ปริมาณงานที่ต้องใช้ในการทำลายระบบเข้ารหัส หรือความยากลำบากในการค้นหาคำตอบของปัญหาบางอย่าง
 
 <div style = "text-align:center; font-size:16px">
   <b> Myself </b>
