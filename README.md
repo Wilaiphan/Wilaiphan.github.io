@@ -1,6 +1,11 @@
-# WELCOME TO MY WEBSITE
+<div align="center">
+  WELCOME TO MY WEBSITE
+</div>
 
-### Wilaiphan.github.io
+###### Wilaiphan.github.io
+
+
+# info
 
 - Wilaiphan Kunlachet
 
