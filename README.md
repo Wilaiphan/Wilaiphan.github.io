@@ -1,4 +1,4 @@
-<div align ="center" style="font-size:24px; color:green">
+<div align ="center" style="font-size:24px; color:#26a69a">
   WELCOME TO MY WEBSITE
 </div>
 
