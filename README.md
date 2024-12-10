@@ -9,7 +9,7 @@
 # info
 
 
-###### **Name : ** Wilaiphan Kunlachet
+###### **Name :** Wilaiphan Kunlachet
 ###### **Nickname :** Prim
  
 <img src = "/img/wilai.png" width = "200">
