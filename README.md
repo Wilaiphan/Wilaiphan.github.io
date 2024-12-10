@@ -1,8 +1,9 @@
-<div align ="center" style="font-size:24px; color:#26a69a">
-  WELCOME TO MY WEBSITE
+<div style = "align:center; font-size:24px; color:#26a69a">
+  <b> WELCOME TO MY WEBSITE </b>
 </div>
 
-<div align ="center" style="font-size:16px; color:#26a69a">
+
+<div align ="center" style="font-size:14xpx; color:#26a69a">
   Wilaiphan.github.io
 </div>
 
