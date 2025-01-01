@@ -4,8 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-### Definition
-**Data is applicable and relevant to problem-solving and decision-making**
+### Definition : **Data is applicable and relevant to problem-solving and decision-making**
 
 ---------------------------------------------------------------------------------------------------------------
 
