@@ -1,12 +1,12 @@
 # All Work
 
 ## Vocabulary 
-<a href= "/worf-factor.md"> Work Factor </a>
+<a href= "https://wilaiphan.github.io/work-factor"> Work Factor </a>
 
 ## E-card
-<a href= "/e-card.md"> E-card </a>
+<a href= "https://wilaiphan.github.io/e-card"> E-card </a>
 
 ## Data Quality (Usefulness)
-<a href= "/usefulness.md"> Usefulness </a>
+<a href= "https://wilaiphan.github.io/usefulness"> Usefulness </a>
 
-<a href= "/README.md"> Profile </a>
+<a href= "https://wilaiphan.github.io/"> Profile </a>
