@@ -17,7 +17,7 @@
 ---------------------------------------------------------------------------------------------------------------
 
 ### Cyber Boardgame
-<a href= "https://wilaiphan.github.io/usefulness"> Cyber Boardgame </a>
+<a href= "https://wilaiphan.github.io/boardgame"> Cyber Boardgame </a>
 
 ---------------------------------------------------------------------------------------------------------------
 
