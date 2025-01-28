@@ -39,16 +39,26 @@
             list-style-type: decimal; /* ตัวเลขเรียงลำดับ */
             padding-left: 30px; /* เพิ่มระยะห่างจากขอบ */
         }
-        .active-grid {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr); /* 4 ช่องเท่าๆ กัน */
-            gap: 10px; /* ระยะห่างระหว่างช่อง */
+        .container {
+            display: flex;
+            justify-content: space-between; /* เพิ่มระยะห่างระหว่างกรอบ */
+            gap: 10px; /* ช่องว่างระหว่างกรอบ */
             padding: 20px;
         }
-        .active-grid img {
-            width: 100%; /* ทำให้รูปพอดีกับช่อง */
-            height: auto;
-            border-radius: 15px; 
+        .box {
+            flex: 1; /* ให้แต่ละช่องมีขนาดเท่าๆ กัน */
+            max-width: 25%; /* จำกัดความกว้างแต่ละกรอบ */
+            aspect-ratio: 1; /* ทำให้กรอบเป็นสี่เหลี่ยมจัตุรัส */
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .box img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* ปรับภาพให้เต็มกรอบ */
         }
     </style>
 </head>
@@ -70,13 +80,20 @@
             <li>ผู้เล่นผลัดกันทอยลูกเต๋า และเดินตามกระดานเท่ากับแต้มที่ได้ หากผู้เล่นเดินตกไปยังช่องพิเศษ ให้ผู้เล่นปฏิบัติตามคำสั่งเท่านั้น</li>
             <li>ผู้ที่มาถึงเส้นชัยก่อนคือผู้ชนะ</li>
         </ol>
-
-        <h2>ภาพ/วิดิโอกิจกรรม</h2>
-            <img src="img/grp.JPG" alt="กิจกรรม 1">
-            <img src="img/BTS.jpg" alt="กิจกรรม 2">
-            <img src="img/BTS2.JPG" alt="กิจกรรม 3">
-            <img src="img/BTS3.JPG" alt="กิจกรรม 4">
-
+        <div class="container">
+            <div class="box">
+                <img src="img/grp.JPG" alt="ภาพ 1">
+            </div>
+            <div class="box">
+                <img src="img/BTS.JPG" alt="ภาพ 2">
+            </div>
+            <div class="box">
+                <img src="img/BTS2.JPG" alt="ภาพ 3">
+            </div>
+            <div class="box">
+                <img src="img/BTS3.JPG" alt="ภาพ 4">
+            </div>
+        </div>
     </div>
     
 </body>
