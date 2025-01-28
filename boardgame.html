@@ -41,6 +41,16 @@
             list-style-type: decimal; /* ตัวเลขเรียงลำดับ */
             padding-left: 30px; /* เพิ่มระยะห่างจากขอบ */
         }
+        .main-image {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .main-image img {
+            width: 80%; /* ปรับขนาดภาพใหญ่ด้านนอก */
+            max-width: 800px; /* กำหนดความกว้างสูงสุด */
+            border: 2px solid #ccc;
+            border-radius: 10px;
+        }
         .container {
             display: flex;
             justify-content: space-between; /* เพิ่มระยะห่างระหว่างกรอบ */
@@ -81,8 +91,13 @@
             <li>ผู้เล่นผลัดกันทอยลูกเต๋า และเดินตามกระดานเท่ากับแต้มที่ได้ หากผู้เล่นเดินตกไปยังช่องพิเศษ ให้ผู้เล่นปฏิบัติตามคำสั่งเท่านั้น</li>
             <li>ผู้ที่มาถึงเส้นชัยก่อนคือผู้ชนะ</li>
         </ol>
+        <h2>ภาพ/วิดิโอ กิจกรรม</h2>
+
+        <div class="main-image">
+            <img src="img/grp.JPG" alt="ภาพหลักกิจกรรม">
+        </div>
+
         <div class="container">
-            <img src="img/grp.JPG" alt="ภาพ 1">
             <div class="box">
                 <img src="img/BTS.jpg" alt="ภาพ 2">
             </div>
