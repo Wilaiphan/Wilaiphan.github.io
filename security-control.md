@@ -1,15 +1,13 @@
 # Security Control
 
 ## Balcony door lock (ตัวล็อกประตูระเบียง)
-    สถานที่ : หอพัก
 
 ---------------------------------------------------------------------------------------------------------------
+### สถานที่ : **หอพัก**
 
-### Type Of Security Controls : 
-    Physical Control
+### Type Of Security Controls : **Physical Control**
 
-### Control Functions : 
-    Preventative
+### Control Functions : **Preventative**
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -18,3 +16,5 @@
 - หากมีการสัวต์เลี้ยงก็ช่วยป้องกันอุบัติเหตุ โดยเป็นการกักพื้นที่ไม่ให้น้องออกไปตามลำพัง
 
 ![Pic](img/sec-control.jpg)
+
+<a href= "https://wilaiphan.github.io/all-work"> All Work </a>
