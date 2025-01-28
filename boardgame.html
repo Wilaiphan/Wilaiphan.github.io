@@ -25,10 +25,10 @@
             text-align: center;
         }
         h1 {
-            margin-bottom: 5px ;
+            margin: 5px ;
         }
         h4 {
-            margin-bottom: 5px;
+            margin: 5px;
         }
         ul {
             text-align: left;
@@ -38,6 +38,17 @@
             text-align: left;
             list-style-type: decimal; /* ตัวเลขเรียงลำดับ */
             padding-left: 30px; /* เพิ่มระยะห่างจากขอบ */
+        }
+        .active-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* 4 ช่องเท่าๆ กัน */
+            gap: 10px; /* ระยะห่างระหว่างช่อง */
+            padding: 20px;
+        }
+        .active-grid img {
+            width: 100%; /* ทำให้รูปพอดีกับช่อง */
+            height: auto;
+            border-radius: 15px; 
         }
     </style>
 </head>
@@ -60,7 +71,11 @@
             <li>ผู้ที่มาถึงเส้นชัยก่อนคือผู้ชนะ</li>
         </ol>
 
-        <h2>วิธีเล่น</h2>
+        <h2>ภาพ/วิดิโอกิจกรรม</h2>
+            <img src="img/grp.JPG" alt="กิจกรรม 1">
+            <img src="img/BTS.jpg" alt="กิจกรรม 2">
+            <img src="img/BTS2.JPG" alt="กิจกรรม 3">
+            <img src="img/BTS3.JPG" alt="กิจกรรม 4">
 
     </div>
     
