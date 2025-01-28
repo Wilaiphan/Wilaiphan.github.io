@@ -22,7 +22,7 @@
 ---------------------------------------------------------------------------------------------------------------
 
 ### Security Control
-<a href= "https://wilaiphan.github.io/usefulness"> Security Control </a>
+<a href= "https://wilaiphan.github.io/security-control"> Security Control </a>
 
 ---------------------------------------------------------------------------------------------------------------
 
